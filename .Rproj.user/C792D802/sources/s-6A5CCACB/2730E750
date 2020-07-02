@@ -1,9 +1,9 @@
 {
     "id": "2730E750",
-    "path": "C:/Users/Hector/Downloads/Cursos/Coursera/datasciencecoursera/helloworld.Rmd",
-    "project_path": "helloworld.Rmd",
-    "type": "r_markdown",
-    "hash": "618864925",
+    "path": "C:/Users/Hector/Downloads/Cursos/Coursera/datasciencecoursera/helloworld.md",
+    "project_path": "helloworld.md",
+    "type": "markdown",
+    "hash": "1491651551",
     "contents": "",
     "dirty": false,
     "created": 1593698094603.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "12,0",
+        "cursorPosition": "11,26",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1593698205,
+    "lastKnownWriteTime": 1593699304,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1593698206014,
+    "last_content_update": 1593699304963,
     "read_only": false,
     "read_only_alternatives": []
 }
